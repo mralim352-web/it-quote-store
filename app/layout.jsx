@@ -8,7 +8,7 @@ const display = Sora({ subsets: ["latin"], weight: ["600", "700", "800"], variab
 const body = Inter({ subsets: ["latin"], variable: "--font-body", display: "swap" });
 const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono", display: "swap" });
 
-const NAME = process.env.NEXT_PUBLIC_SITE_NAME || "IT Quote Store";
+const NAME = process.env.NEXT_PUBLIC_SITE_NAME || "IT Electronics";
 const WA = process.env.NEXT_PUBLIC_WHATSAPP;
 export const metadata = { title: { default: NAME, template: `%s · ${NAME}` }, description: "IT hardware, laptops, networking and servers in the UAE. Live stock, instant quotes on WhatsApp." };
 
