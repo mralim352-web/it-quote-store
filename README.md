@@ -1,4 +1,4 @@
-# IT Quote Store (prototype)
+# TechPoint UAE (prototype)
 
 Catalogue site that mirrors a supplier's stock/prices automatically, adds your markup, and routes
 every customer to you via WhatsApp / email / call / quote form.
